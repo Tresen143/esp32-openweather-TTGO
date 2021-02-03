@@ -14,7 +14,7 @@
 #include <Timelib.h>
 #include <Timezone.h> // https://github.com/JChristensen/Timezone
 
-#include ".settings.h"
+#include "settings.h"
 #include <icons.h>
 #include <OpenWeatherId.h>
 
